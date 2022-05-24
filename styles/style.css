@@ -35,7 +35,7 @@ body {
   padding-top: 84px;
   justify-content: center;
   align-items: center;
-  background-image: url("./assets/image.png");
+  background-image: url("../assets/image.png");
   background-size: cover;
 }
 h1 {
@@ -76,7 +76,7 @@ p {
 }
 .blockthree {
   display: flex;
-  background-image: url("./assets/image\ \(1\).png");
+  background-image: url("../assets/image\ \(1\).png");
   height: 483px;
   width: 100%;
   background-size: cover;
